@@ -1,3 +1,4 @@
+[![HitCount](https://hits.dwyl.com/NoobToolzz/Discord-Infinite-Typing.svg?style=flat-square&show=unique)](http://hits.dwyl.com/NoobToolzz/Discord-Infinite-Typing)
 # Discord-Infinite-Typing
 > A very simple and easy-to-use tool that makes you infinitely type on Discord.
 
